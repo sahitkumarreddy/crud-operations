@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
 /**
- * Created by sahit on 29-08-2019.
+ * Class to handle the exceptions
  */
 @ControllerAdvice
 public class UserAdvice {

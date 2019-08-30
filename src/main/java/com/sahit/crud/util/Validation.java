@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by sahit on 29-08-2019.
+ * Class for checking validations
  */
 public class Validation {
 

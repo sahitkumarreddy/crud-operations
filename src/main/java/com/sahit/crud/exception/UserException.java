@@ -1,7 +1,7 @@
 package com.sahit.crud.exception;
 
 /**
- * Created by sahit on 29-08-2019.
+ * Class to handle the exceptions
  */
 public class UserException extends Exception {
 

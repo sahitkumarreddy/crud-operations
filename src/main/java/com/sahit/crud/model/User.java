@@ -1,7 +1,7 @@
 package com.sahit.crud.model;
 
 /**
- * Created by sahit on 29-08-2019.
+ * Entity class to represent database
  */
 import javax.persistence.*;
 
@@ -23,8 +23,7 @@ public class User {
     @Column
     private String email;
 
-    public User(int id, String firstName, String lastName, String email) {
-        this.id = id;
+    public User(String firstName, String lastName, String email) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.email = email;

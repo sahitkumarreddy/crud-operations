@@ -1,7 +1,7 @@
 package com.sahit.crud.repository;
 
 /**
- * Created by sahit on 29-08-2019.
+ * Repository class
  */
 import com.sahit.crud.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
